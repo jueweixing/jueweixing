@@ -33,7 +33,7 @@
     },
     {
         "token": "52:DD:FC:00:A6:6D",
-        "username": "wang"
+        "username": "WBD"
     },
     {
         "token": "AC:4E:91:44:C3:DA",
@@ -62,5 +62,9 @@
     {
         "token": "F0:4D:A2:74:39:4A",
         "username": "Corleone"
+    },
+    {
+        "token": "00:25:90:DC:60:5C",
+        "username": "WBD"
     }
 ]
