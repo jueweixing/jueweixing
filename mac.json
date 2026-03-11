@@ -346,5 +346,9 @@
     {
         "token": "F0:4D:A2:75:FE:A7",
         "username": "REFUNDABLE"
+    },
+    {
+        "token": "00:23:AE:EE:FD:52",
+        "username": "REFUNDABLE"
     }
 ]
